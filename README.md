@@ -2,6 +2,9 @@
 
 Good day ! I am Yoonji Kim who is interested in Java from South Korea.
 <br>
+I'm studying a lot.<br>
+I just need somebody to take me to the next level.<br>
+I’m all ears to everything.<br>
 If you want to contact me, please leave me a message!
 
 
