@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 🗽
+
+Good day ! I am Yoonji Kim who is interested in Java from South Korea.
+If you want to contact me, please leave me a message!
+
+
+
 
 <!--
 **6161990/6161990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
