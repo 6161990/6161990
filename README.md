@@ -1,6 +1,7 @@
 ### Hi there 🗽
 
 Good day ! I am Yoonji Kim who is interested in Java from South Korea.
+<br>
 If you want to contact me, please leave me a message!
 
 
