@@ -1,8 +1,4 @@
-### Hi there 🗽
-
-[![Hits](https://hits.sh/github.com/6161990.svg)](https://hits.sh)
-
-
+### Hi there 🗽　　　　　　　　　　　　　　　　　　　　　　　　                           　　　　　　　　　　　　　　[![Hits](https://hits.sh/github.com/6161990.svg)](https://hits.sh)
 Good day ! I am Yoonji Kim who is interested in Java from South Korea.
 <br>
 I'm studying a lot. But, I'm still a beginner. <br>
