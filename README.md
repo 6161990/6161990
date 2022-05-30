@@ -1,10 +1,4 @@
 ### Hi there 🗽　　　　　　　　　　　　　　　　　　　　　　　　                           　　　　　　 [![Hits](https://hits.sh/github.com/6161990.svg?extraCount=1000)](https://hits.sh)　[![Hits](https://hits.sh/github.com/6161990.svg?view=today-total)](https://hits.sh)
-Good day ! I am Yoonji Kim who is interested in Java from South Korea.
-<br>
-I'm studying a lot. But, I'm still a beginner. <br>
-So, I just need somebody to take me to the next level.<br>
-I’m all ears to everything.<br>
-If you want to contact me, please leave me a message!
 
 
 
